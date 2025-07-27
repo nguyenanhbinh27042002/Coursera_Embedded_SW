@@ -36,5 +36,13 @@
  * @return <Add Return Informaiton here>
  */
 
+void printf_array(unsigned char data[], int length);
+void print_statistic(unsigned char data[], int length);
+void sort_array(unsigned char data[], int length);
+unsigned char find_mean(unsigned char data[], int length);
+unsigned char find_median(unsigned char data[], int length);
+unsigned char find_max(unsigned char data[], int length);
+unsigned char find_min(unsigned char data[], int length);
+
 
 #endif /* __STATS_H__ */
