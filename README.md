@@ -1,3 +1,1 @@
-MEO MEO
-MEO MEO
-
+Study Embedded SW for project using github
