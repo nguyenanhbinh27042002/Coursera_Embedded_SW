@@ -1,1 +1,1 @@
-Study Embedded SW for project using github
+ALO /* Add Author and Project Details here */
